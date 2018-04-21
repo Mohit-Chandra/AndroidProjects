@@ -1,2 +1,2 @@
 # AndroidProjects
-This repo consists of projects which were completed as a part of Android learning.
+This TicTacToe game was completed as a part of Android learning.
